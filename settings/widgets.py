@@ -61,7 +61,7 @@ primary_widgets = [
 
     icon(bg="color3", text=' '), # Icon: nf-fa-download
 
-    widget.Pacman(**base(bg='color3'), update_interval=1800),
+    # widget.Pacman(**base(bg='color3'), update_interval=1800),
 
     powerline('color2', 'color3'),
 
